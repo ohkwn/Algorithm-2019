@@ -16,6 +16,7 @@
 * [동영상 강의2](https://www.youtube.com/watch?v=SO7xhml3Np4&t=517s)
 * [동영상 강의3](https://www.youtube.com/watch?v=ZX2mC6OJrqM&list=PL52K_8WQO5oXIATx2vcTvqwxXxoGxxsIz&index=48)
 * [동영상 강의4](https://www.youtube.com/watch?v=p0cC6sZg3OI&list=PL52K_8WQO5oXIATx2vcTvqwxXxoGxxsIz&index=49)
+* [프로그래밍 과제 01](https://classroom.github.com/a/liyiwv-n)
 
 ## **제2장 순환(recursion)**
 
