@@ -1,4 +1,4 @@
-## 강의 소개 ##
+## 2019 알고리즘 ##
 * [강의소개](https://github.com/ohkwn/Algorithm-2019/blob/master/slides/course%20orientation.pdf)
 
 ## **제1장 알고리즘의 분석**
