@@ -33,6 +33,7 @@
  - [동영상 강의 1-1](https://www.youtube.com/watch?v=ln7AfppN7mY&index=1&list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l)
  - [동영상 강의 1-2](https://www.youtube.com/watch?v=tuzf1yLPgRI&list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l&index=2)
  - [동영상 강의 1-3](https://www.youtube.com/watch?v=Vwfo_hrxuzg&index=3&list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l)
+ - [프로그래밍 과제 02](https://classroom.github.com/a/OYvqGjGs)
 
 **제3주 (3/18, 3/21)**
 
