@@ -41,7 +41,7 @@
  - [동영상 강의 2-3](https://www.youtube.com/watch?v=xKGbWC-DPT4&list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l&index=6)
  - [동영상 강의 2-4](https://www.youtube.com/watch?v=nkeMRRIVW9s&index=7&list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l)
 
-##**제3장 정렬(sorting)**
+## **제3장 정렬(sorting)**
 
 **학습목표**
 
@@ -71,7 +71,7 @@
  - [동영상 강의 7](https://www.youtube.com/watch?v=eCnKp9bzErg&index=17&list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l)
  - [동영상 강의 8](https://www.youtube.com/watch?v=ESwVlixFtak&list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l&index=18)
 
-## 제4장 검색트리
+## **제4장 검색트리**
 
 **학습목표**
 
