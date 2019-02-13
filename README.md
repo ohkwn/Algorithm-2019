@@ -16,7 +16,6 @@
 * [동영상 강의2](https://www.youtube.com/watch?v=SO7xhml3Np4&t=517s)
 * [동영상 강의3](https://www.youtube.com/watch?v=ZX2mC6OJrqM&list=PL52K_8WQO5oXIATx2vcTvqwxXxoGxxsIz&index=48)
 * [동영상 강의4](https://www.youtube.com/watch?v=p0cC6sZg3OI&list=PL52K_8WQO5oXIATx2vcTvqwxXxoGxxsIz&index=49)
-* [프로그래밍 과제 01](https://classroom.github.com/a/uK1RsmN0)
 
 ## **제2장 순환(recursion)**
 
@@ -33,7 +32,6 @@
  - [동영상 강의 1-1](https://www.youtube.com/watch?v=ln7AfppN7mY&index=1&list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l)
  - [동영상 강의 1-2](https://www.youtube.com/watch?v=tuzf1yLPgRI&list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l&index=2)
  - [동영상 강의 1-3](https://www.youtube.com/watch?v=Vwfo_hrxuzg&index=3&list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l)
- - [프로그래밍 과제 02](https://classroom.github.com/a/OYvqGjGs)
 
 **제3주 (3/18, 3/21)**
 
